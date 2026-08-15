@@ -1,0 +1,6 @@
+{
+  "name": "KasiGR-atis POS",
+  "description": "POS Kasir Pintar UMKM Indonesia dengan HPP, Stok, QRIS, Varian & Kasbon",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
